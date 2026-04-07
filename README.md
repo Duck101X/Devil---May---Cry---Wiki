@@ -38,7 +38,7 @@ DEVIL-MAY-CRY-WIKI/
 Clonar o Repositório:
 
 Bash
-git clone https://github.com/Duck101X/dmc-wiki.git
+git clone https://github.com/Duck101X/Devil---May---Cry---Wiki.git
 Navegar até a Pasta:
 Acesse o diretório raiz do projeto.
 
